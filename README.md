@@ -1,9 +1,9 @@
 ### Olá! Me chamo Ruan e tenho 19 anos 😁
 
 
-- 🔭 Buscando uma oportunidade como desenvolvedor 😃
-- 🌱 Estudando **C, C++, C# e Python**
-- 📫 Contato: ruan.pablo2002@outlook.com.br
+🔭 Buscando uma oportunidade como desenvolvedor 😃
+🌱 Estudando **C, C++, C# e Python**
+📫 Contato: ruan.pablo2002@outlook.com.br
 
 <div align="center">
   <a href="https://github.com/RuanPablo1">
