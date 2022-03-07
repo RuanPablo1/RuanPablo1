@@ -1,9 +1,9 @@
 ### Olá! Me chamo Ruan e tenho 19 anos 😁
 
 
-🔭 Buscando uma oportunidade como desenvolvedor 😃
-🌱 Estudando **C, C++, C# e Python**
-📫 Contato: ruan.pablo2002@outlook.com.br
+- 🔭 Buscando uma oportunidade como desenvolvedor 😃
+- 🌱 Estudando **C, C++, C# e Python**
+- 📫 Contato: ruan.pablo2002@outlook.com.br
 
 <div align="center">
   <a href="https://github.com/RuanPablo1">
@@ -23,3 +23,5 @@
 <div> 
   
   <a href="https://www.linkedin.com/in/ruan-pablo-44677a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/RuanPablo1/RuanPablo1/blob/output/github-contribution-grid-snake.svg)
