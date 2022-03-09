@@ -2,7 +2,6 @@
 
 
 - 🔭 Buscando uma oportunidade como desenvolvedor 😃
-- 🌱 Estudando **C, C++, C# e Python**
 - 📫 Contato: ruan.pablo2002@outlook.com.br
 
 <div align="center">
