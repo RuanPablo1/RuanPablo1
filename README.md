@@ -1,6 +1,7 @@
 ### Olá! Me chamo Ruan e tenho 19 anos 😁
 
 
+- 👩🏿‍💻 Cursamdo Ciências da Computação
 - 🔭 Buscando uma oportunidade como desenvolvedor 😃
 - 📫 Contato: ruan.pablo2002@outlook.com.br
 
