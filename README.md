@@ -1,4 +1,4 @@
-### Olá! Me chamo Ruan e tenho 19 anos 😁
+### Olá! Me chamo Ruan e tenho 20 anos 😁
 
 
 - 👩🏿‍💻 Cursando Ciências da Computação
