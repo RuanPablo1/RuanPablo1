@@ -2,8 +2,18 @@
 
 
 - 👩🏿‍💻 Cursando Ciências da Computação
-- 🔭 Buscando uma oportunidade como desenvolvedor 😃
 - 📫 Contato: ruan.pablo2002@outlook.com.br
+
+- ☕️ Se aprofundando nos conhecimentos da linguagem Java e no ambiente de desenvolvimento Spring,
+se aprofundando em Spring Boot, Spring Data JPA, Lombok, Validation e Spring Security.
+
+- 📕 Iniciando os estudos no front-end com o framwork Angular.
+
+</div>
+  
+  ##
+ 
+<div> 
 
 <div align="center">
   <a href="https://github.com/RuanPablo1">
